@@ -1,0 +1,1951 @@
+disease_name,icd11_code
+Pruritus,EC90
+Progressive familial intrahepatic cholestasis,5C58.03
+Alagille syndrome,LB20.0Y
+Coronavirus Disease 2019 (COVID-19),1D6Y
+Primary hyperoxaluria type 1,5C51.20
+Hyperoxaluria,5C51.2
+Reversal of anticoagulation,N.A.
+Bacterial vaginosis,MF3A
+Hereditary amyloidosis,5D00.2
+Transthyretin familial amyloid cardiomyopathy,5D00.20
+Multiple myeloma,2A83
+Non-hodgkin lymphoma,2B33.5
+Chronic lymphocytic leukaemia,2A82.0
+Small lymphocytic lymphoma,2A82.0
+Multi-drug resistant tuberculosis,MG52.00
+Meningococcal disease,1C1C
+Glycogen storage disease type II,5C51.3
+Nasopharyngeal cancer,2B6B
+Hot flushes,GA30
+Non-small-cell lung cancer,2C25
+Non-small-cell lung cancer,2C25.Y
+Thrombotic thrombocytopenic purpura,3B64.14
+Complex partial seizure,8A68.0
+Vaso-occlusive crisis,BE2Y
+Sickle-cell disorder,3A51
+Diagnostic imaging,N.A.
+Chronic myeloid leukaemia,2A20
+Dry eye disease,9E1Z
+Ebola virus infection,1D60.0
+Urinary tract infection,GC08
+Metachromatic leukodystrophy,5C56.02
+Hereditary angioedema,4A00.14
+Pertussis,1C12
+Tetanus,1C13
+Diphtheria,1C17
+Poliomyelitis,1C81
+Hepatitis B,1E51
+Influenza virus infection,1E30-1E32
+Hepatitis B virus infection,1E51.0
+Spinal muscular atrophy,8B61
+Urothelial carcinoma,2C92.0
+Lower respiratory tract infection,CA45
+Respiratory syncytial virus infection,1C80
+Haemophilia A,3B10.0
+Severe asthma,CA23
+Vulvovaginal Candidiasis,1F23.10
+Onychomycosis,EE12.1
+Diffuse large B-cell lymphoma,2A81
+Follicular lymphoma,2A80
+Paroxysmal nocturnal haemoglobinuria,3A21.0
+IgA nephropathy,MF8Y
+Cold type autoimmune haemolytic anemia,3A20.1
+Liver cancer,2C12
+Prostate cancer,2C82.0
+Endometrial cancer,2C76
+Neoplasm,2A00-2F9Z
+Breast cancer,2C60-2C65
+Stomach cancer,2B72
+Sjogren syndrome,4A43.20
+Insomnia,7A00-7A0Z
+Hodgkin lymphoma,2B30
+Acute intermittent hepatic porphyria,5C58.11
+Shingles,1E91
+Hypoglycemia,5A41
+Hyperinsulinemia,5A4Y
+Amyloid polyneuropathy,5D00.20
+Extranodal NK/T-cell Lymphoma,2A90.6
+Meningococcal infection,1C1C
+Bladder cancer,2C94
+Type 2 diabetes,5A11
+Diabetic macular edema,9B71.02
+Neovascular age-related macular degeneration,9B78.3Z
+Emphysema,CA21
+Alpha-mannosidosis,5C56.21
+Growth hormone deficiency,5A61.3
+Melanoma,2C30
+Esophageal squamous cell carcinoma,2E60.1
+Glabellar frown line,NA0Z
+Epidermolysis bullosa,EC3Z
+Heterozygous familial hypercholesterolemia,5C80.00
+Homozygous familial hypercholesterolemia,5C80.00
+Geographic atrophy,9B75
+Pompe disease,5C51.3
+Head and body lice,1G00.0
+Wet age-related macular degeneration,9B78.3Z
+Von willebrand disease,3B12
+Large B Cell Lymphoma,2A81
+Respiratory tract infection,CA45
+Narcolepsy,7A20
+Hepatocellular carcinoma,2C12.02
+Multiple sclerosis,8A40
+Crohn disease,DD70
+Hepatitis D virus infection,1E51.2
+Human immunodeficiency virus-1 infection,1C62
+Human immunodeficiency virus infection,1C62
+Schizophrenia,6A20
+Mantle cell lymphoma,2A85.5
+Common cold,CA00
+Cough,MD12
+Bacterial infection,1A00-1C4Z
+Depression,6A70-6A7Z
+Radioactive tracer,N.A.
+Human papillomavirus infection,1A9Y
+Ulcer,CA02-CB40
+Gastritis,DA42
+Varicella zoster virus infection,1E91
+Anxiety disorder,6B00-6B0Z
+Allergic rhinitis,CA08.0
+Diabetic complication,5A2Y
+Solid tumour/cancer,2A00-2F9Z
+Spasm,MB47.3
+Rheumatoid arthritis,FA20
+Virus infection,1A24-1D9Z
+Sterilant,N.A.
+Erectile dysfunction,HA01.1
+Hypertension,BA00-BA04
+Herpes simplex virus infection,1F00
+Migraine,8A80
+Peripheral vascular disease,BD4Z
+Hemangioma,2E81-2F2Y
+Varicose and spider veins of leg,BD74.1
+Anaesthesia,9A78.6
+Adrenocortical carcinoma,2D11.Z
+Japanese encephalitis virus infection,1C85
+Dermatitis,EA80-EA89
+Contraception,QA21
+Small-cell lung cancer,2C25.Y
+Hyponatraemia,5C72
+Atopic dermatitis,EA80
+Brain cancer,2A00
+Wilson disease,5C64.00
+Cushing disease,5A70
+Dementia,6D80-6D86
+Allergy,4A80-4A85
+Tuberculosis,1B10-1B1Z
+Gout,FA25
+Hyperkalemia,5C76
+Molluscum contagiosum infection,1E76
+Cardiovascular disease,BA00-BE2Z
+Female infertility,GA31.Z
+Asthma,CA23
+Gallstone,DC11.3
+Inflammation,1A00-CA43.1
+Hormone deficiency,5A61.1
+Acute hyperammonaemia,5C50.A
+Folate-deficiency anemia,3A02.Y
+Vitamin deficiency,5B55-5B71
+Gaucher disease,5C56.0Y
+Sphingolipidosis,5C56.0
+Hydrocephalus,8D64
+Focal segmental glomerulosclerosis,MF8Y
+Myocardial infarction,BA41-BA43
+Obesity,5B81
+Bardet biedl syndrome,5A61.0
+Prader-Willi syndrome,LD90.3
+Myocardial disease,BC43.20
+Pemphigus vulgaris,EB40
+Squamous cell carcinoma,2B60-2D01
+Ovarian cancer,2C73
+Renal cell carcinoma,2C90
+Myelodysplastic syndrome,2A37
+Acute myeloid leukaemia,2A60
+Haematological malignancy,2B33.Y
+Gastric adenocarcinoma,2B72
+Colorectal cancer,2B91.Z
+Pancreatic cancer,2C10
+Bronchioalveolar carcinoma,2C25.0
+Allergic conjunctivitis,9A60.02
+Menorrhagia,GA20.50
+Hypercalciuria,MF98.0
+Dysmenorrhea,GA34.3
+Osteogenesis imperfecta,LD24.K0
+Psoriatic disorder,EA90
+Congestive heart failure,BD10
+Caerulein stimulated gastric and pancreatic secretion,5A4Y
+Heart arrhythmia,BC65
+Diabetic foot ulcer,BD54
+Hemophilia,3B10.0
+Hairy cell leukaemia,2A82.2
+Osteoarthritis,FA00-FA05
+Acne vulgaris,ED80
+Actinic keratosis,EK90.0
+Symptomatic vitreomacular adhesion,9B8Z
+Toxoplasmosis,1F57
+Seizure disorder,8A6Z
+Parkinson disease,8A00.0
+Pulmonary hypertension,BB01
+Hyperlipidaemia,5C80
+Arthritis,FA20
+Type-2 diabetes,5A11
+Malaria,1F40-1F45
+Cerebral vasodilator,BA00-BE2Z
+Hay fever,CA08.00
+Overactive bladder,GC50.0
+Psoriasis vulgaris,EA90
+Dermal ulcers,1A36
+Skin burns,ME65.0
+Chronic/stable angina,BA40.1
+Malignant pleural mesothelioma,2C26.0
+Ischemic reperfusion injury,DB98.B
+Iron-deficiency anemia,3A00
+Epilepsy,8A60-8A68
+Alcohol dependence,6C40.2
+Clostridium infection,1A04
+Gonorrheal vaginitis,GA02
+High blood pressure,BA00
+Morning sickness,SC00
+Acute bronchitis,CA42
+Musculoskeletal disorder,FA00-FC0Z
+Gastrointestinal cancer,2C11
+Nausea,MD90
+Bone marrow transplantation,QB63.6
+Magnesium intoxication,5C64.4
+Pseudomonas infection,1B92
+Cerebral vasospasm,BA85.Z
+Neuromyelitis optica spectrum disorder,8E4A.0
+Mycobacterium infection,1B10-1B21
+Radionuclide imaging,N.A.
+Helicobacter infection,DA42-DA63
+Inborn error of metabolism,5C50-5C59
+Hemorrhoids,DB60
+Fungal infection,1F29-1F2F
+Pain,MG30-MG3Z
+Hypoactive sexual desire dysfunction,HA00
+Hepatitis C virus infection,1E51.1
+MRSA infection,1D01.0Y
+Poisoning due to pesticides and chemicals,NE6Z
+Osteoporosis,FB83.0
+Fibrosis,GA14-GC01
+African trypanosomiasis,1F51
+Trypanosomiasis,1D51-1F53
+Behcet disease,4A62
+Major depressive disorder,6A70.3
+Thrombin deficiency,3B14.Z
+Eye inflammation,9A02
+Pulmonary arterial hypertension,BB01.0
+Salmonella infection,1A09
+Chronic obstructive pulmonary disease,CA22
+Chronic breathing disorder,7A4Z
+Smoking dependence,6C4A.2
+Back pain,ME84.Z
+Constipation,DD91.1
+Narcotic depression,6A7Z
+Respiratory depression,MD11.5
+Opioid dependence,6C43.2Z
+Medical abortion,JA00.1Z
+Poison intoxication,NE6Z
+Imaging,QA0B
+Malignant essential hypertension,BA00
+Dermatomycosis,EA60
+Impetigo,1B72
+Infertility,GB04
+Muscle spasm,MB47.3
+Ventricular tachycardia,BC71
+Epileptic seizures,8A61-8A6Z
+Postpartum depression,6E20.0
+Parasitic infection,1D0Y-1G2Z
+Neisseria meningitis infection,1C1C.0
+Alzheimer disease,8A20
+Benign prostatic hyperplasia,GA90
+Canine and feline spontaneous neoplasm,2A00-2F9Z
+Analgesia,MB40.8
+Plaque psoriasis,EA90.0
+Psoriatic arthritis,FA21
+Thrombosis,DB61-GB90
+Arterial thrombosis,DB61-DD30
+Chronic pain,MG30
+Attention deficit hyperactivity disorder,6A05.Z
+Hyperprolactinaemia,5A60.1
+Palmoplantar pustulosis,EA90.42
+Musculoskeletal pain,MG30
+Angina pectoris,BA40
+Lyme disease,1C1G
+Merkel cell carcinoma,2C34
+Colon cancer,2B90.Z
+Head and neck cancer,2D42
+Testicular cancer,2C80
+Cartilage lesions,NC93.3Z
+Generalized myasthenia gravis,8C60
+Myasthenia gravis,8C6Y
+Cystic fibrosis,CA25
+Cardiac arrhythmias,BC9Z
+Adrenocortical insufficiency,5A74
+Mood disorder,6A60-6E23
+Eating disorder,6B82
+Bordetella pertussis infection,1C12.0
+Addison disease,5A74.0
+Gastrointestinal disease,DE2Z
+Hutchinson-Gilford progeria syndrome,LD2B
+Contact dermatitis,EK0Z
+Anabolic metabolism,5C50-5C8Z
+Blood transfusion,QB98
+Mycosis fungoides,2B01
+Sezary syndrome,2B02
+Cutaneous T-cell lymphoma,2B01
+T-cell leukaemia,2A90
+Urinary incontinence,MF50.2
+Horner syndrome,8D8A.1
+Thrombocytopenia,3B64
+Idiopathic thrombocytopenic purpura,3B64.10
+Irritability,MB24
+Irritable bowel syndrome,DD91.0
+Euvolemic hyponatremia,5C72
+Hypercalcaemia,5B91.0
+Type-1 diabetes,5A10
+Endometriosis,GA10
+Vitamin B12 deficiency,5B5F
+Lung injury,NB32.3Z
+Muscular pain,FB56
+Injury,NA00-ND5Z
+Peptic ulcer,DA61
+Myeloid leukaemia,2B33.1
+Hyperhidrosis,EE00
+Bone disease,FC0Z
+Complex regional pain syndrome,8D8A.0
+Immune thrombocytopenic purpura,3B64.13
+Essential hypertension,BA00
+Cardiac failure,BD10-BD13
+Anemia,3A00-3A9Z
+Bacillary dysentery,1A02
+leukaemia,2A60-2B33
+Stomach ulcer,DA60.Z
+Excessive sweating,EE00.Z
+Genitourinary disease,GA0Z-GC8Z
+Amoebiasis,1A36
+Coagulation defect,3B10.0
+Anal fistula,DB50.1
+Pulmonary embolism,BB00
+Deep vein thrombosis,BD71
+Alpha-1 antitrypsin deficiency,5C5A
+Erythropoietic porphyrias,5C58.12
+Vitiligo,ED63.0
+Senile dementia,6D8Z
+Brain ischaemia,8B1Z
+Hereditary tyrosinemia type 1,5C50.11
+Edema,MG29
+Seasonal influenza infection,1E30
+Perianal wart,1A95
+Nephropathic cystinosis,5C60
+Zoster,1E91
+Waldenstrom macroglobulinemia,2A85.4
+B-cell lymphoma,2A86
+Immune System disease,4A01-4B41
+Gastrointestinal stromal tumour,2B5B
+Systemic mastocytosis,2A21.0
+Mast cell leukaemia,2A21.00
+HIV-associated lipodystrophy,1C62.1
+Primary haemophagocytic lymphohistiocytosis,4A01.23
+Cardiac disease,BA00-BE2Z
+Discovery agent,N.A.
+Idiopathic pulmonary fibrosis,CB03.4
+Hepatic fibrosis,DB93.0
+Friedreich's ataxia,8A03.10
+Chronic granulomatous disease,4A00.0Y
+Chronic glaucoma,9C61.0Z
+Heart failure,BD10-BD13
+Glaucoma/ocular hypertension,9C61
+Female genital tract inflammation,GA0Z
+Graft-versus-host disease,4B24
+Systemic lupus erythematosus,4A40.0
+Scleroderma,4A42
+Ventricular arrhythmias,BC71
+Scorpion envenoming syndrome,8D43
+Osteosarcoma,2B51
+Neuropathic pain,8E43.0
+Tinea pedis,1F28.2
+Articular cartilage disorder,FA34.Y
+Cerebrovascular ischaemia,8B1Z
+Lung cancer,2C25.0
+Skin infection,1F28-1G0Z
+Alcoholic hepatitis,DB94.1
+Diabetic neuropathy,8C0Z
+Peripheral arterial disease,BD4Z
+HER2/NEU overexpressing breast cancer,2C60-2C65
+Postoperative inflammation,1A00-CA43.1
+Hormone replacement therapy,8E01
+Circadian rhythm sleep disorder,7A60-7A65
+Insecticide,N.A.
+Active duodenal ulcer,DA63
+Idiopathic parkinson disease,8A00.0Z
+Influenza A virus infection,1E30
+Pheochromocytoma,5A75
+Gram-positive bacterial infection,1B74-1G40
+Cryopyrin-associated periodic syndromes,4A60.1
+Vasculitis,4A44
+Urticaria,EB00-EB05
+Liver disease,DB90-BD99
+Diagnostic radiopharmaceutical,N.A.
+Urinary tract disease,GC2Z
+Phenylketonuria,5C50.0
+Nicotine dependence,6C4A.2
+Tobacco dependence,6C4A.2
+Hypotension,BA20-BA21
+Gastroesophageal reflux disease,DA22.Z
+Neurological disorder,6B60
+Leishmania braziliensis infection,1F54.2
+Hepatitis A virus infection,1E50.0
+Measles,1F03
+Dental plaque,DA08.4
+Ischemic stroke,8B11.5Z
+Congenital alopecia,LC30
+Dizziness,MB48
+Heart attack,BA41
+Cystitis,GC00
+Vasomotor symptom,CA08
+Menopause symptom,GA30.0
+Proliferative vitreoretinopathy,9B78.2
+Stroke,8B20
+Venous thromboembolism,BD72
+Embolism,JB42
+Testosterone deficiency,5A81.1
+Acute lung injury,NB32.3
+Hepatitis virus infection,1E50-1E51
+Female sexual arousal dysfunction,HA01.1
+Night blindness,9D45
+Kinetoplastids,1F61-1G2Z
+Hypothyroidism,5A00
+Endocarditis,BB40-BA42
+Sickle-cell anaemia,3A51
+Chronic myelomonocytic leukaemia,2A40
+Essential tremor or related tremors,8A04.1
+Haemophilus influenza,1G40
+Hyperthyroidism,5A02
+Skin imperfections,EK71
+Chemotherapy-induced nausea,MD90
+Hyperphenylalaninemia,5C50
+Pulmonary tuberculosis,1B10.Z
+Arteriosclerosis,BD40
+Bone metastases,2D50
+Anaemia,3A90
+Beta thalassemia,3A50.2
+Chronic periodontitis,DA0C.Y
+Advanced gum disease,DA0D
+Gastric cancer,2B72
+Cutaneous melanoma,2C30
+Obstructive lung disease,CA22.Z
+Carcinoma,2A00-2F9Z
+Hypokalemia,5C77
+Organophosphate poisoning,NE6Z
+Carcinoid syndrome,5B10
+Carcinoid syndrome diarrhea,DA90.0
+Nausea and vomiting,MD90
+Bronchitis,CA20
+Infection of P. falciparum,1F40
+Postpartum haemorrhage,JA43
+Blastic plasmacytoid dendritic cell neoplasm,2A60.5
+Rotavirus infection (Diarrhoea),ME05.1
+Cerebral salt-wasting syndrome,5C72
+Cancer related pain,MG30
+Acute lymphoblastic leukaemia,2A85
+Poliovirus infection,1C8Y
+Diabetic nephropathy,GB61.Z
+Infantile spasm,8A62.0
+Bronchopulmonary dysplasia,KB29.0
+Duchenne dystrophy,8C70
+Malnutrition,5B50-5B71
+Muscular dystrophy,8C70
+Polycythemia vera,2A20.4
+Thyroid cancer,2D10
+Type-1/2 diabetes,5A10-5A11
+Diarrhea,ME05.1
+Cataract,9B10
+Acid-reflux disorder,DA22
+Constitutional neutropenia,4B00.0
+Hospital-acquired pneumonia,CA40.Z
+Ventilator-associated pneumonia,PK81.0
+Healthcare-associated pneumonia,CA00-CA40
+Aplastic anemia,3A70
+Hypertriglyceridemia,5C80.1
+Iron overload disease,5C64.10
+Hepatic encephalopathy,DB99.5
+Haemophilia B,3B11.0
+Infestations of lice and scabies,1G00.Z
+Cognitive impairment,6D71
+Mature gastrointestinal nematode infection,1F6Y
+Bipolar disorder,6A60
+Vertigo meniere disease,AB31.0
+Alopecia,ED70
+Opioid-induced constipation,DB32.1
+Neisseria gonorrhoeae infection,1A7Z
+Abdominal stomach pain,DD91.4
+Myelofibrosis,2A20.2
+Dermatitis herpetiformis,EB44
+Neuroendocrine cancer,2B72.1
+Metastatic colorectal cancer,2B91
+Penile squamous cancer,2C81
+Severe sepsis,1G40-1G41
+Paget's disease,FB85
+Non-cystic fibrosis bronchiectasis,CA24
+Bleeding disorder,GA20-GA21
+Factor IX deficiency,3B11
+Brain disease,8C70-8E61
+Bronchiectasis,CA24
+Renal failure,GB60-GB6Z
+Psychotic disorder,6A20-6A25
+Bladder disease,DC11-DC1Z
+Wound healing,EL8Y
+Retina venous occlusion,9B74.1
+Delayed methotrexate clearance,N.A.
+Schistosomiasis,1F86
+Respiratory distress syndrome,CB00
+Deep venous clot,BD71
+Investigative surgical procedure,QB8Z
+Vulnerary,ND56.Z
+Acute coronary syndrome,BA41
+Abdominal aortic aneurysm,BD50.4
+Blood brain barrier,5C61.5
+Anorexia nervosa cachexia,6B80
+Community-acquired pneumonia,CA40.Z
+infection associated with diabetic foot ulcers,BD54
+Adverse reactions to acetaminophen or acetaminophen overdose,PB24
+Ophthalmic disease,5A02.0
+Mucopolysaccharidosis,5C56.3
+Cytomegalovirus retinitis,9B72.00
+Hypocholesterolemia,5C81
+Synthesis disorder,5C52-5C59
+Peroxisomal disorder,5C57
+Acquired nystagmus,9C84
+Lymphoma,2A80-2A86
+Infectious disease,1A00-CA43.1
+Marginal zone lymphoma,2A85.0
+Eosinophilic asthma,CB02.0
+Gastrinoma,2C10.1
+Pancreatic exocrine dysfunction,DC3Z
+Oral mucositis,DA01.11
+Central precocious puberty,5A60.3
+Polycystic ovarian syndrome,5A80.1
+Cholangiocarcinoma,2C12.10
+Myeloproliferative syndrome,2A22
+Itching,1F28-1G07
+Hyperaemia,9A61-9B7Y
+Ophthalmic graves disease,5A02.0
+Fecal incontinence,ME07
+Uveitis,9A96.Z
+Malignant pleural effusion,2D72
+Scar tissue,QB83
+Diabetic retinopathy,9B71.0
+Brain injury,NA07.Z
+Xerophthalmia,5B55.Y
+Biliary cancer,2E92.7
+Dravet syndrome,8A61.11
+LennoxGastaut syndrome,8A62.1
+Hypercholesterolaemia,5C80.0
+Mammary analogue secretory carcinoma,2C60
+Neuroblastoma,2D11.2
+Ischemia,8B10-8B11
+Sinus rhythm disorder,BC9Y
+Chronic kidney disease,GB61
+Von hippel-lindau disease,5A75
+Pulmonary disease,1B10-1F85
+Skin ulcer,ME60.Z
+Venous thrombosis,BA43
+Dysuria,MF50.7
+Nocturia,MF55
+Suprapubic pain,MG30-MG3Z
+Urgency,N.A.
+Ataxia-telangiectasia,4A01.31
+Gastrointestinal infection,1A40.Z
+Ulcerative colitis,DD71
+Intra-abdominal infection,1A40
+Diabetes insipidus,5A61.5
+Enuresis,6C00
+Polyuria,MF55
+Kidney transplant rejection,NE84
+Heart transplant rejection,NE84
+Central nervous system disease,8A04-8D87
+Invasive aspergillosis,1F20.0
+Candidiasis,1F23
+Moderate and severe hypertension,BA00.Z
+Spinal stenosis,FA82
+Hyperparathyroidism,5A51
+Thalassemia,3A50
+Lipid metabolism disorder,5C52.Z
+Fabry disease,5C56.01
+Intra ocular pressure reduction,9C40
+Cholestasis of parenteral nutrition,DB99.60
+Anca-associated vasculitis,4A44.A
+Hereditary haemolytic anemia,3A10.3
+Eosinophilic granulomatosis with polyangiitis,4A44.A2
+Colitis,1A40.Z
+Smallpox,1E70
+Pediatric lennox-gastaut syndrome,8A62.1
+Pneumocystis pneumonia,CA40.20
+Cervical cancer,2C77.0
+Respiratory disease,CB40
+Haemorrhage,MG27
+Large B-cell lymphoma,2A81
+Richter syndrome,2A81.Y
+Central nervous system lymphoma,2B33.5
+Precursor B-lymphoblastic neoplasm,2A70
+Primary biliary cholangitis,DB96.1
+Fatigue,MG22
+Metal intoxication,NE60
+Thllium and radioactive isotopes of caesium poisoning,NE61
+Arrhythmia,BC9Z
+Congestive cardiac insufficiency,BD1Z
+Autism spectrum disorder,6A02
+Lactation failure,JB46.3
+Excessive daytime sleepiness,MG42
+Acromegaly,5A60.0
+Otitis media,AA80-AB0Z
+Varicose veins,BD74-BD75
+Pancreatic ductal carcinoma,2C10.0
+Biliary tract cancer,2C17
+Flatworm infection,1F70-1F86
+Skin inflammation,EF20.Y
+Autoimmune diabetes,5A10
+Pyoderma gangrenosum,EB21
+Lupus nephritis,4A40.0Y
+Kidney disease,GC2Z
+Reproduction,JA00-JA02
+Peripheral T-cell lymphoma,2A90.C
+Hyperuricaemia,5C55.Y
+Tachyarrhythmias,BC71
+Acute radiation syndrome,NF00
+Procedural sedation,JB0C.3
+Open-angle glaucoma,9C61
+Acquired immune deficiency syndrome,1C62.3
+Coronavirus infection,1D92
+Inflammatory arthritis,FA2Z
+Haemostatic astringent,MG27
+Congenital adrenal hyperplasia,5A71.01
+Vibrio cholerae infection,1A00
+Cutaneous squamous cell carcinoma,2C30
+Sarcoptes scabiei infection,1G04
+Gastric motility disorder,DA21
+Obstructive airway disease,CB40.Y
+Eczema,EA80-EA89
+Vitamin D deficiency,5B57
+Chronic heart failure,BD1Z
+Acute asthma,CA23
+Acute pain,MG31
+Dysrhythmias,BC9Z
+Kidney cancer,2C90.0
+Pediculus capitis infestation,1G00.0
+Postmenopausal osteoporosis,FB83.11
+Heroin and opiate withdrawal,6C43
+Fibromyalgia,MG30.01
+Osteopetrosis,LD24.10
+Pancreatitis,DC31-DC34
+Dermatological disease,DA24.Y
+Chronic bronchitis,CA20.1
+Tardive dyskinesia,8A02.10
+Elevated C-reactive protein,MA14.15
+Psychiatric disorder,6E8Z
+Plasma cell myeloma,2A83.1
+Cestodes infection,1F70-1F76
+Metabolic disorder,5C50-5D2Z
+Malignant mesothelioma,2C26.0
+Pediatric cancer,2A00-2F9Z
+Dysbetalipoproteinemia,5C80.2
+Motor symptoms,6A25.4
+Worm infection,1F90.Z
+Fertility problem,5A61
+Immunodeficiency,4A00-4A85
+Vascular purpura,3B60
+Heart block,BC63
+Hyperthermia,MG26
+Bone induction,FC0Z
+Sciatica,ME84.3
+Sarcoidosis,4B20.5
+Transplant rejection,NE84
+Neurogenic orthostatic hypotension,8D87.0Y
+Anal fissure,DB50.0
+Amyotrophic lateral sclerosis,8B60.0
+Hypoalbuminemia,5C53.2
+HCV-1 and HCV-4 infection,1E51
+Sepsis,1G40-1G41
+Type 1 gaucher disease,5C56.0Y
+LambertEaton myasthenic syndrome,8C62
+Familial hypercholesterolemia,5C80.00
+Fibrodysplasia ossificans progressiva,FB31.1
+Sexual dysfunction,HA00-HA01
+Cytomegalovirus infection,1D82
+Localisation,N.A.
+Staining,N.A.
+Coronary artery disease,BA80
+Acute or chronic pain,MG30-MG31
+Hypophosphatasia,5C64.3
+Primary hypercholesterolemia,5C80.00
+Hepatitis C,1E51
+Macular degeneration,9B78.3
+Nutritional deficiency,5B50-5B71
+Cytomegalovirus Disease,1D82
+Hypocalcemia,5B5K.1
+Rosacea,ED90.0
+Increase blood pressure,BA04
+Respiratory tract inflammation,CA07
+Heart disease,BA41-BA42
+Primary biliary cirrhosis,DB96.1
+Kaposi sarcoma,2B57
+Hyperglyceridemia,5C80.1
+Spinal cord injury,ND51.2
+Dyslipidemia,5C80-5C81
+Rabies,1C82
+Porphyria,5C58.1
+Hepatic veno-occlusive disease,DB98.6
+Oral lichen planus,EA91.4
+Acute iron or aluminum toxicity,FB83.20
+Postoperative hemorrhage,NE81.0Z
+Chagas disease,IF53
+Convulsion,8A68.Z
+Tibial nonunions,FB80.8
+Interstitial cystitis,GC00.3
+Painful bladder syndrome,MG30.50
+Muscle fatigue,FB32.5
+Piscicide,N.A.
+Duchenne muscular dystrophy,8C70.1
+Inflammatory bowel disease,DD72
+Substance use disorder,6C4Z
+Prostate hyperplasia,GA90
+Growth failure,LD2F.1Y
+Gynecological disease,GA6Z
+Menstrual disorder,GA20.3
+infection in the ear canal,AA0Y
+Pediatric immunological disease,GB4Z
+Periodontal disease,DA0C
+Cutaneous candidiasis,1F23.14
+Tinea cruris,1F28.3
+Tinea corporis,1F28.Y
+Tinea versicolor,1F2D.0
+Graves disease,5A02.0
+Hyperlipoproteinemia,5C80
+Dry cough,MD12
+Neuromuscular disease,8C6Y
+Acute bacterial skin infection,1C41
+Tinnitus,MC41
+Huntington disease,8A01.10
+Chronic myelogenous leukaemia,2A20.0
+Ocular allergy,4A81
+Insufficient tear production,5B55.Y
+Prostate disease,GA91
+Primary myelofibrosis,2A20.2
+Atrial fibrillation,BC81.3
+Panic attacks,MB23.H
+Acute myocardial infarction,BA41
+Mineral-electrolyte metabolism disorder,5C64
+Peritoneal cancer,2C51.Z
+Fallopian tube cancer,2C74
+Primary mediastinal B-cell lymphoma,2A81
+X-linked hypophosphataemia,5C63.22
+Hepatitis E virus infection,1E50.4
+Thrombocythemia,3B63
+Benzodiazepine overdose,PC91
+HCV 1-6 infection,1E51
+External genital and perianal wart,1A95
+Condyloma,1A95
+Verruca vulgaris,1E80
+Enzyme deficiency,5C51-5C57
+Hormonally-responsive breast cancer,2C60-2C65
+Obstructive hypertrophic cardiomyopathy,BC43.12
+Blepharospasm,9A05.Z
+Visceral spasms,MD81.4
+Essential thrombocythemia,3B63.1Z
+Plant grey mould disease,N.A.
+Acute lymphocytic leukaemia,2B33.3
+Seborrhoeic dermatitis,EA81
+Grade IV astrocytoma,2A00.0
+Pyruvate kinase deficiency,5C53.00
+Organ transplant rejection,NE84
+Ocular disease,N.A.
+Cardiac output syndrome,BC43
+Urinary dysfunction,GC2Z
+Fever,MG26
+Ringworm infection,1F28
+Kidney stone,GB70.0Z
+Hantavirus infection,1D62
+Somatotropin deficiency,5A61.0
+Pest attack,N.A.
+Herbicide,N.A.
+Staphylococcus infection,1B5Y
+Reversal of the anticoagulant effects of dabigatran,N.A
+Mild hypocalcemia,5B5K.1
+Radiocontrast agent,N.A.
+Addictive disorder,6C50-6C5Z
+Hypertensive emergency,BA03
+Aneurysm,BD51.Z
+Hypersensitivity,4A80-4A85
+Dermatologic infection,1F28
+Orthostatic hypotension,BA21
+Methicillin-resistant staphylococci infection,1A00-1A09
+Keratosis,ED56
+Reperfusion injury,ND56.Z
+Examination of eyes or vision,QA00.6
+Intestinal cancer,2C0Z
+Malignant solid tumour,2C10-2F32
+Triple negative breast cancer,2C60-2C65
+Ocular hypertension,9C61.01
+Vulvovaginitis,GA02.0
+Familial chylomicronemia syndrome,5C80
+Nodal marginal zone lymphoma,2A85.0
+Cystinuria,5C60.2
+Cystine urolithiasis,GB70-GB7Z
+Chronic open-angle glaucoma,9C61.0
+Vascular disease,BE2Z
+Respiratory failure,CB41
+Systemic sclerosis,4A42
+Recurrent glioblastoma,2A00.00
+Perianal crohn disease,DD70.4
+Chlamydia infection,1A81
+Diarrhea-predominant irritable bowel syndrome,DD91.01
+Atrophic vaginitis,GA30.2
+Acute cardiac ischemic events,BA40.Z
+Intestinal strongyloidiasis due to nematode parasite,1F6B
+Dystonia,8A02
+Urethral cancer,2C93
+Factor VIII deficiency,3B10
+Dyspepsia,MD92
+Neutropenia,4B00.0
+HIV-associated diarrhoea,1A2Z
+Anthrax,1B97
+Tenosynovial giant cell tumour,2F7B
+Pigmented villonodular synovitis,FA27.1
+Neurofibromatosis type 1,LD2D.10
+Yellow fever virus infection,1D47
+Soft tissue sarcoma,2B57
+Intermittent claudication,BD40.00
+Amnesia,MB21.1
+Glioma,2A00.0
+Dietary shortage,5B5K
+Mydriasis,LA11.62
+Chronic HCV-1 infection,1E51.1
+Hyperkinetic movement disorder,6B60.8
+Ovarian stimulation,LB45.1
+Acquired methemoglobinemia,3A93
+Mammary tumour,2C60-2C6Z
+Impacted cerumen,AA42
+Streptococcus infection,1B53
+B-cell non-hodgkin lymphoma,2B33.5
+C. difficile infection,1A04
+Sunburn,EJ40
+Fetal trimethadione syndrome,LD2F.0Y
+Mesothelioma,2C51.2
+Bacterial pneumonia,CA40.0
+HER2-positive breast cancer,2C60-2C65
+Influenza,1E30-1E32
+Nasal congestion,MD11.9
+Acute gouty arthritis,FA25.0
+Acute gout flare,FA25.0
+Glioblastoma multiforme,2A00.0
+Chronic liver disease,DB99.0
+Cerebrovascular disease,8B2Z
+Skeletal muscle relaxant,NE60
+Helminth infection,1F90.0
+Dutch elm disease,8D64
+Hematologic disease,3C0Z
+Anaplastic large cell lymphoma,2A90.A
+Trichuris trichiura infection,1F6G
+Artery stenosis,BD52
+Ankylosing spondylitis,FA92.0
+Joint pain,ME82
+Spinal anesthesia,MB40.3
+Juvenile idiopathic arthritis,FA24
+Gallbladder disease,DC11.3
+Respiratory allergy,4A80
+Esophageal cancer,2B70
+Urinary retention,MF50.3
+Bacillus anthracis infection,1G40
+Chemoprotection,N.A.
+Respiratory tract disease,CB7Z
+Functional bowel syndrome,DD91.0
+High cholesterol level,5C80.0
+Mucositis,CA00
+Appendicitis,DB10
+Tumour,2A00-2F9Z
+Primary progressive multiple sclerosis,8A40.1
+Plasmodium vivax malaria,1F41
+Chronic HBV infection,1E51.0Z
+Secondary hyperparathyroidism,5A51.1
+Abortion,JA00
+Vitamin B6 deficiency,5B5D
+High blood cholesterol level,5C80.00
+Postherpetic neuralgia,1E91.5
+Duodenal ulcer,DA63
+Invasive candidiasis,1F23
+Molybdenum cofactor deficiency,5B5K.A
+Encephalopathy,8E47
+Nervous system disease,8A00-8E7Z
+X-rays imaging,N.A.
+Diagnostic fluorescein angiography or angioscopy of vasculature,BA00-BE2Z
+Chronic idiopathic constipation,DC32
+Zinc deficiency,5B5K.2
+Premature labour,JB00
+Joint lubricant,FA30-FA38
+Enthesopathy,FB53-FB55
+Pancytopenia,3A70.Z
+Miosis,LA11.62
+Vitamin C deficiency,5B56
+Aspergillosis,1F20
+Thyroid disease,5A00-5A06
+Dermatophytosis,1F28.2
+Non-erosive gastro-esophageal reflux disease,DA22.0
+Erosive esophagitis,DA25.0
+NSAID-associated gastric ulcer,DA60
+Microorganisms infection,1A00-1A09
+Headache,8A80-8A84
+Male hormonal deficiency,5A81
+Central and peripheral nervous disease,8A04-8E7Z
+Bupicavaine toxicity,NE6Z
+Lymphatic filariasis,1F66.3
+Escherichia coli infection,1A03
+Achondroplasia,LD24.00
+Vitamin B1 deficiency,5B5A
+Skin cancer,2C30-2C37
+Non-insulin dependent diabetes,5A11
+Female hypogonadism,GA30.6
+Inflammatory skin condition,EF20.Y
+Clostridium difficile associated diarrhea,1A04
+Contrast medium for intravenous urography,GC2Z
+Hypoparathyroidism,5A50
+Skin disease,EA00-EM0Z
+Paroxysmal supraventricular tachycardia,BC81.Z
+Vomiting,MD90
+Chronic diarrhoea,1A36.0Z
+Sleep-wake disorder,7A00-7B2Z
+Hunter syndrome,5C56.31
+Appetite suppressant,MG43
+Tripeptidyl peptidase 1 deficiency,5C50
+Neuronal ceroid lipofuscinosis,5C56.1
+Acquired haemolytic anemia,3A4Z
+Seasonal allergic rhinitis,CA08.01
+Reticular veins,EF20
+Spider veins,EF20
+Rhinitis,FA20
+Genetic disease,8E02
+Stabilize muscle contraction,FB3Z
+Lipoprotein disorder,5C80-5C8Z
+Lupus,4A40
+Rheumatic fever,1B40-1B42
+Seborrhea,ED91.2
+Acute liver failure,DB91
+Alcoholic cirrhosis of liver,DB94
+Excessive bleeding,GA30.02
+Relapsing-remitting multiple sclerosis,8A40.0
+Gastric disease,DA40-DA7Z
+Pelvic inflammatory disease,GA05
+Abdominal surgical procedure,N.A.
+Tuberculosis,1B10-1B14
+Disorder of calcium metabolism,5C64.5
+Onchocerciasis,1F6A
+River blindness,1F6A.0
+Spontaneous abortion,JA00.0
+Knee osteoarthritis,FA01
+Erythema,ME64.0
+Manic depression disorder,6A71
+Hyperlipidemia,5C80.Z
+Contrast imaging,N.A.
+Hypothalamic hypogonadism,5A61.2
+Gonococcal urethritis,1A70.0Y
+Intestinal amebiasis,1A36
+bronchial hyperreactivity,CB40
+Metastatic malignant neoplasm,2D50-2E09
+Sweetener,N.A.
+High-risk myelofibrosis,2A20.2
+Leptospira infection,1B91
+Lymphatic disease,BD9Z
+Brain metastases,2D50
+Resorption of radiopaque agents,N.A.
+Hereditary hemorrhagic telangiectasia,LA90.00
+Throat irritation,CA0Y
+Magnetic resonance imaging of liver,ME21
+Pediatric growth disorder,FB86
+Subarachnoid hemorrhage,8B01
+Cholelithiasis,DC11
+Acidosis,5C73
+Weight loss,MG43.5
+Acute supraventricular tachycardia,BC81
+Alkalosis,5C74
+Pleural disease,CB27
+Melasma,ED60.1
+Bronchial asthma,CA23
+Ophthalmic surgery injury,PK97
+Venom poisoning,NE61
+T-cell lymphoma,2A90
+Renal transplantation,NE84
+Castleman's disease,4B2Y
+Methamphetamine dependence,6C46.2
+Skin photodamage,EJ40
+Otitis externa,AA00-AA13
+Acute otitis media,AB00
+Hypogonadism,5A61.0
+Skin allergy,4A82
+Paroxysmal atrial fibrillation,BC81.30
+Syphilis infection,1A6Z
+Monkeypox virus infection,1E71
+Vitamin K deficiency,5B59
+Refractory chronic myeloid leukaemia,2A20
+Pancreatic malfunction,DC30-DC3Z
+Basal cell carcinoma,2C32
+Primitive neuroectodermal tumour medulloblastoma,2A00.11
+Expectorant,MD10
+Ventricular fibrillation,BC71.1
+Obsessive compulsive disorder,6B20
+Neonatal respiratory distress,CB04.2
+Amyloidosis,5D00
+Amyloid cardiomyopathy,5D00.20
+Thyrotoxicosis,5A02
+Alopecia areata,ED70.2
+Infection of the upper and lower urinary tract,GC08
+Uremic pruritus,EC90.10
+Blastomycosis,1F22
+Rett syndrome,LD90.4
+Fragile X syndrome,LD55
+Traumatic brain injury,NA07.Z
+Acute bronchial asthma,CA23
+Recurring respiratory infection,CA07-CA45
+Jock itch,1F28.3
+Athylene glycol or methanol poisoning,NE61
+Thiamine deficiency,5B5A
+Wernicke-Korsakoff Syndrome,5B5A.1
+Neurotrophic keratitis,9A74
+Inborn homocystinuria,5C50
+Arthropathy,FA11-FA38
+Bone related disease,FB82-FB85
+Chronic idiopathic urticaria,EB00.1
+Metabolic acidosis,5C73
+Conjunctivitis,9A60
+Monitored anaesthesia care,N.A.
+Grass pollen hypersensitivity,4B07
+Mycoses,1F2Z
+Hemorrhage,MG27
+Bile duct disease,LB20
+Acute promyelocytic leukaemia,2A60.0
+Dyspareunia,GA12
+Postmenopausal vaginal atrophy,GA30.2
+Ocular pain,MC18
+Intrahepatic cholangiocarcinoma,2C12.10
+Ascariasis,1F62
+Enterobiasis,1F65
+Pulmonary and extrapulmonary tuberculosis,1B10.Z
+Adenosine deaminase defciency,4A01.1
+Age-related macular degeneration,9B75.0
+Diabetic cataract,9B10.21
+Vaccination,N.A.
+Nervous system paraneoplastic or autoimmune disorders,8E4A.1
+Gastric secretory disorder,DD90
+Prurigo nodularis,EC91.0
+Rectal adenocarcinoma,2B92
+Dermal necrosis,MC85
+Drug abuse,6C4G.1Z
+Short bowel syndrome,KB89.1
+Circulatory disorder,BE2Z
+Measure kidney function,MG02
+Hormone receptor positive and HER2-negative advanced or metastatic breast cancer,2C60-2C65
+Meniere disease,AB31.0
+Iron deficiency,5B5K.0
+Bradycardia,MC81.1
+Ear disease,AA0Y-AC0Z
+Menopausal and postmenopausal disorder,GA30
+Gastro-oesophageal reflux,DA22
+Functional dyspepsia,DD90.3
+Status epilepticus seizure,8A66.1Y
+Radiographic contrast medium,N.A.
+Ocular inflammation,9C61.24
+Intractable insomnia,7A00
+Ovulation dysfunction,5A80
+Toxicity,N.A.
+Lleum inflammation,1A40.0
+Histoplasma infection,1F2A.Z
+Psychomotor agitation,MB23.M
+Long-chain fatty acid oxidation disorder,BC43.10
+Genetic epileptic syndromes with variable age of onset,8A61.4Y
+Urolithiasis,GB7Z
+Desmoid tumour,2F7C
+Vasomotor/allergic rhinitis,CA08
+Leishmaniasis,1F54
+Visceral leishmaniasis,1F54.0
+Brain and central nervous system tumour,2A00.11
+Malignant rhabdoid tumour,2A00.1Y
+Synovial sarcoma,2B5A
+Oral cancer,2B6E
+Meningitis,1D01
+Influenza A virus H5N1 infection,1E30
+Peripheral neuropathy,8C0Z
+Restless legs syndrome,7A80
+Insulin-resistant disorder,5A44
+Pyruvate dehydrogenase complex deficiency,5C53.02
+Pulmonary fibrosis,CB03.4
+Tourette syndrome,8A05.00
+Motor neurone disease,8B60
+Coronary heart disease,BA80.Z
+Influenza A virus H1N1/H5N1 infection,1E30
+Premature ejaculation,HA03.0Z
+Eye disorder,9A01-9A0Z
+Pancreatic tumour,2C10
+Acute heart failure,BD10-BD13
+Scapulohumeral periarthritis,FB53
+Myalgia,FB56.2
+Aggressive cancer,2A00-2F9Z
+Clotting disorder,3B4Z
+Non-alcoholic steatohepatitis,DB92.1
+Generalized pustular psoriasis,EA90.40
+Alexander disease,8A44.2
+Post-transplant lymphoproliferative disorder,2B32
+Nasopharyngeal carcinoma,2B6B
+Wiskott-Aldrich syndrome,3B62.0
+Arginase 1 deficiency,5C50.A2
+uveitic macular edema,9B78
+Choroideremia,9B61
+Frontotemporal dementia,6D83
+Chronic myocardial ischemia,BA6Z
+X-linked retinitis pigmentosa,9B70
+Glioblastoma of brain,2A00.00
+Hemorrhagic cystitis,GC00.1
+Distal renal tubular acidosis,GB90.44
+Thrombotic microangiopathy,3B65
+Necrotizing enterocolitis of newborn,KB88
+Warm autoimmune hemolytic anemia,3A20.0
+Chronic inflammatory demyelinating polyneuropathy,8C01.3
+Autoimmune haemolytic anaemia,3A20
+Idiopathic inflammatory myopathy,4A41
+Al amyloidosis,5D00.0
+Hypereosinophilic syndrome,2A20.3
+chronic rhinosinusitis with nasal polyps,CA0A
+Non-muscle invasive bladder cancer,2C94
+Pneumonia,CA40
+Pneumococcal infection,CA00-CA40
+Pulmonary sarcoidosis,4B20.0
+Cutaneous lupus erythematosus,EB5Z
+Geographic retinal atrophy,9B78.9
+Dilated cardiomyopathy,BC43.0
+Autosomal dominant hypocalcemia,5A50.0Y
+Angelman syndrome,LD90.0
+Head-neck squamous cell carcinoma,2D60.0
+Thymidine kinase 2 deficiency,5C55.1
+Intervertebral disc degeneration,FA80
+Liposarcoma,2B59
+Skin and skin-structure infection,1F28-1G0Z
+Uveal Melanoma,2D0Y
+XIAP deficiency,4A01.22
+Pediatric glioma,2A00.0
+Malignant glioma,2A00.0
+Mumps virus infection,1D80
+Rubella prophylaxis,1F02
+Calciphylaxis,EB90.42
+Calcific uremic arteriolopathy,EB90.42
+Bullous pemphigoid,EB41.0
+Menkes disease,5C64.0
+Stargardt disease,9B70
+Cerebral X-linked adrenoleukodystrophy,5C57.1
+Primary sclerosing cholangitis,DB96.2
+Chikungunya virus infection,1D40
+Necrotizing soft tissue infection,1B71
+Muscle injury,NC16.3
+Erythropoietic protoporphyria,5C58.12
+Liver cirrhosis,DB93.1
+CLN3 Batten disease,5C56
+Ornithine transcarbamylase deficiency,5C50.AY
+Hypertrophic cardiomyopathy,BC43.1
+Congenital thrombotic thrombocytopenic purpura,3B64.14
+Limb-girdle muscular dystrophy,8C70.4
+Transthyretin amyloid cardiomyopathy,5D00.20
+Delayed graft function,4B24.0
+IgG4 related disease,4A43.0
+Esophagogastric junction neoplasm,2B71
+Severe combined immunodeficiency,4A01.10
+Oral cavity squamous cell carcinoma,2B6E.0
+Herpes zoster,1E91
+Eosinophilic esophagitis,DA24.1
+Haemolytic uraemic syndrome,3A21.2
+Bacteremia,1A73
+Chronic plaque psoriasis,EA90.0
+Sjogren-Larsson syndrome,5C52.03
+Acute myelogenous leukaemia,2A41
+Advanced malignancy,2A00-2F9Z
+Neurobehavioral disorder,8A00-8A0Z
+Dengue fever,1D2Z
+Acute respiratory failure,CB41.0
+Cocaine addiction,6C45.2
+Muscle disease,FB3Z
+Neuromyelitis optica,8A43
+Morton neuroma,8C11.6
+Cerebral edema,8D60.1
+Familial amyloid polyneuropathy,5D00.20
+Nephritis,GB40
+Ehlers-Danlos syndrome,LD28.1
+Ovarian epithelial cancer,2C73
+Anaplastic glioma,2A00.0
+Advanced solid tumour,2A00-2F9Z
+Phlegmy cough,SA80-SA8Z
+Primary axillary hyperhidrosis,EE00.01
+Arthralgia,ME82
+Middle East Respiratory Syndrome (MERS),1D64
+Severe acute respiratory syndrome (SARS),1D65
+Gynecologic cancer,2F33-2F76
+Hematologic tumour,2B33.Y
+Charcot marie tooth disease,8C21.Z
+Uterine fibroids,2E86.0
+Giant cell arteritis,4A44.2
+Gastroparesis,DA41.00
+Diabetic gastroparesis,DA41.00
+Cachexia,MG20
+Autoimmune pulmonary alveolar proteinosis,CB04.31
+Endotoxic shock,1G41
+Pre-sarcopenia,FB32.Y
+Gastrointestinal ulcer,DA60.Z
+Inclusion body myositis,4A41.2
+Muscle atrophy,FB32.Y
+Serious infection,1H0Z
+Leber hereditary optic neuropathy,8C73.Y
+Sarcoma,2A60-2C35
+Focal dystonia,8A02.1
+Shigella infection,1A02
+Acute repetitive seizure,8A67
+Atypical hemolytic uremic syndrome,3A10.Y
+Glomerulonephritis,5D00.Y
+Epithelial ovarian cancer,2B5D
+Late-stage acute myeloid leukaemia,2A60
+Lung infection,CA4Z
+Anal cancer,2C00
+Morquio syndrome,5C56.32
+Cluster headache,8A81.0
+Retinitis pigmentosa,9B70
+Flavivirus infection,1C80
+Whim syndrome,4A00.Y
+Post-traumatic stress disorder,6B40
+Critical limb ischemia,BD4Y
+Metastatic gastric or gastroesophageal junction cancer,2D8Y
+Genital herpes,1A94
+Hereditary spinocerebellar ataxia,8A03.1
+Pancreatic islet transplantation failure,NE84
+Ischemia-reperfusion injury,DB98.B
+Graft rejection in heart transplantation,NE84
+lung transplantation,PK80.20
+Promyelocytic leukaemia,2A82.1
+Acute and chronic heart failure,BD1Z
+Metastatic liver cancer,2C12
+Periodontitis,DA0C
+Myelofibrosis,2A22
+Argininosuccinate synthase deficiency,5C50.A3
+Mental disease,6E8Z
+Chronic low back pain,MG30.02
+Vulvar intraepithelial neoplasia,2E67.10
+Mixed connective tissue disease,4A43.3
+Social anxiety disorder,6B04
+Movement disorder,8A07-8A0Z
+Ophthalmic infection,1F00.1
+Sexually transmitted infection,1A9Z
+Metabolic syndrome x,5C50-5D2Z
+Vasospasm,9B74.0
+Generalized anxiety disorder,6B00
+Vascular restinosis,BE2Z
+Metastatic breast cancer,2C6Y
+Allergic asthma,CA23.0
+Alveolar soft part sarcoma,2A60-2C35
+Leiomyosarcoma,2B58
+Peritoneal cavity cancer,2C51.Z
+Anterior uveitis,9A96
+Axial spondyloarthritis,FA92.0
+Cardiac events,MC82
+Adolescent meningitis,1D01.10
+Cardiomyopathy,BC43
+Radiation syndrome,NF00
+Cartilage disorder,FA34
+Advanced cancer,2A00-2F9Z
+Ragweed hypersensitivity allergic disease,4A8Z
+AIDS-related lymphoma,2B33.5
+Renal artery disease,BD40.2
+Leishmania infection,1F54.0
+Enterovirus infection,1D91
+Autoimmune disease,4A40-4A45
+Ischemic heart disease,BA40-BA6Z
+Long QT syndrome,BC65.0
+Dyskinesia,MB47.4
+Grade IV malignant glioma,2A00.0
+Rickets,5B57
+Aniridia,LA11.3
+Pemphigoid,EB41
+Hypopharyngeal squamous cell carcinoma,2B6D.0
+Hidradenitis suppurativa,ED92.0
+Squamous head and neck cell carcinom,2D60.0
+Adenovirus infection,1A20
+Acute kidney injury,GB60
+Diffuse systemic sclerosis,4A42.1
+Vitamin E deficiency,5B58
+Pertussis,1C12.Z
+Candidemia,1F23.3Y
+Mitochondrial myopathy,8C73
+Aneurysmal subarachnoid hemorrhage,8B01.0
+Angioimmunoblastic T-cell Lymphoma,2A90.9
+Azoospermia,GB04.0
+Recurrent adult burkitt lymphoma,2A85.6
+Choroidal neovascularization,9B76
+Familial adenomatous polyposis,2B90.Y
+Ischemic optic neuropathy,9C40.4
+Non-arteritic anterior ischemic optic neuropathy,9C40.40
+Atrophy,9A2Y-9C40
+Testicular germ cell tumour,2C80.2
+Dental caries,DA08.0
+Relapsed or refractory chronic lymphocytic leukaemia,2A82.0
+Diuretic vasodilator,BA00
+Pediatric attention deficit hyperactivity disorder,6A05
+Type 2 glycogen storage disease,5C51.3
+Sciatica/lumbar radicular pain,ME84.3
+Blood forming organ disorder,JB64.1
+Lysosomal storage disease,5C56.Z
+Preterm labour,JB00
+Primary insomnia,7A00
+Exocrine pancreatic insufficiency,DC35.1
+Liver metastasis,2D80
+Premenstrual syndrome,GA34.40
+Hereditary inclusion body myositis,4A41.2
+Myopathy,8C7Y
+Carbohydrate metabolism disorder,5C51.Z
+Burn and burn infection,ND90-NE2Z
+Idiopathic multicentric Castlemans disease,2A81.Y
+Malignant carcinoid syndrome,5B10
+Bone development disorder,FB86
+Pustular palmoplantar psoriasis,EA90
+Diabetic kidney disease,GB61.Z
+Lateral sclerosis,8B61
+Peripheral sensory neuropathies,LD27.3
+Hirsutism,ED72
+Perianal fistula,DB50.1
+Vaginal disease,GA1Y
+Diarrhea,DA90
+Niemann-pick disease,5C56.0Y
+Neurodegenerative disorder,8A20-8A23
+Keloidal surgical scar,EL50.0
+Myeloproliferative neoplasm,2A20
+Myelodysplastic neoplasm,2A60
+Common wart,1E80
+Nosocomial infection,PL10
+Herniation disk,ND51.2
+Angiosarcoma,2B56
+Hemangiosarcoma,2B56.1
+Gestational trophoblastic neoplasia,2F33-2F76
+Adrenoleukodystrophy,8A44.1
+Cervical Intraepithelial neoplasia,2E66.1
+Dysplasia,LB30-LD2F
+Vulvar squamous intraepithelial lesion,2E66.1
+Ewing sarcoma,2B52
+Hyperphagia,MG43.9
+Mucopolysaccharidosis II,5C56.31
+Leber congenital amaurosis,9B70
+Acute pyelonephritis,GB51
+Heart failure with preserved ejection fraction,BD11.0
+Glioblastoma,2A00
+Ligneous conjunctivitis,9A02.2
+Joint infection,FA10
+Heart injury,NB31
+Acute decompensated heart failure,BD1Z
+Panic disorder,6B01
+Eclampsia,JA25
+Proliferative diabetic retinopathy,9B71.01
+Perennial allergic rhinitis,CA08.03
+Myotonic dystrophy,8C71.0
+Macular telangiectasia type 2,9B75.3
+Cerebral ischemia,8B11
+Small round cell desmoplastic tumour,2A20.5
+Enterococcus faecium infection,1D01.0Y
+Pervasive developmental disorder,6A00-6A0Z
+B-cell chronic lymphocytic leukaemia,2A82.00
+Hepatic failure,DB99.7
+Congenital plasminogen activator inhibitor type 1 deficiency,3B50.1
+Hypoplasminogenemia,DA0D.3
+Metastatic biliary tract neoplasms,2C14-2C17
+Ileus,DA93.0
+Pre-eclampsia,JA24
+End-stage renal disease,GB61.5
+Narcolepsy type 1,7A20.0
+Narcolepsy type 2,7A20.1
+Coronary microvascular disease,BA86
+Psoriasis,EA90
+Hemochromatosis,5C64.1Y
+Chronic low-back pain,MG30
+Acute adenoviral conjunctivitis,1D84.0
+Aromatic L-amino acid decarboxylase deficiency,5C59.00
+Influenza A virus H1N1 infection,1E30
+Dercum disease,EF02.1
+Methylmalonic acidemia,5C50.E0
+Propionic acidemia,5C50.E0
+Dermatomyositis,4A41.0
+Discoid lupus erythematosus,EB51.0
+Non-alcoholic fatty liver disease,DB92
+Chronic lung disease,CA20.11
+Elevated Lipoprotein(a),5C80.1
+Gingivitis,DA0B
+Traveler's diarrhea,ME05.1
+Venous leg ulcer,BD74.3
+Uterine serous carcinoma,2C72.1
+Pressure ulcers,EH90
+Autosomal Recessive Ichthyosis,ED20
+Cryopyrin-associated periodic syndrome,4A60.1
+Dengue,1D20-1D2Z
+Renal fibrosis,GC01
+Lymphatic malformation,LA90.1
+Intermittent explosive disorder,6C73
+Fear-related disorder,6B0Z
+Urea cycle disorder,5C50.A
+Respiratory infection,CA07-CA4Z
+Peripheral Ischemic Ulcers,BD41
+Marijuana use disorder,6C41
+mumps,1D80
+Varicella,1E90
+rubella,1F02
+Epileptic encephalopathy,8A62
+Respiratory distress syndrome of newborn,KB23.0
+Oesophagogastric junction cancer,2B71.Z
+Polymyositis,4A41.1
+Centronuclear myopathy,8C72.01
+Fanconi's anemia,3A70.0
+Acute respiratory distress syndrome,CB00
+Clostridioides difficile infection,1A04
+Plantar wart,1E80.1
+Congenital hyperinsulinism,5A4Y
+Food allergy,4A85.2
+Immune thrombocytopenia,3B64
+Cold agglutinin disease,3A20.1
+Neurofibromatosis 1,LD2D.10
+Hypertrophic scars,EE60
+Intracranial embolism,8B22.1
+Subcutaneous fat disorder,EF02
+Postoperative pain,MG30-MG3Z
+Heart failure with reduced ejection fraction,BD11.2
+Pouchitis,N.A.
+Acute ischemic stroke,8B11
+Dry age-related macular degeneration,9B75
+Oropharyngeal squamous cell carcinoma,2B6A.0
+Large granular lymphocytic leukemia,2A90.1
+Heparin-induced thrombocytopenia,3B64.12
+Keloid,EE60
+Non-eosinophilic asthma,CA23
+Coeliac disease,DA95
+ER-positive breast cancer,2C60-2C65
+Primary ciliary dyskinesia,LA75.Y
+Shigella diarrhea,1A02
+Multiple system atrophy,8D87.0
+facioscapulohumeral muscular dystrophy,8C70
+Surgical site infection,NE81.2
+Invasive pulmonary aspergillosis,1F20.0
+Chronic cough,MD12
+Cancer cachexia,MG20.0
+Aspirin-induced asthma,CA23.20
+Chordoma,5A61.0
+Obstructive sleep apnea,7A41
+Cardiac fibrosis,DB98.8
+Snakebite,N.A.
+Dystrophic epidermolysis bullosa,EC32
+Methamphetamine use disorder,6C46
+Acute cardiac ischemia,BA4Z
+Steatohepatitis,DB92
+genital warts,1A95
+Primary immune thrombocytopenia,3B64.10
+Influenza A virus H3N2 infection,1E30
+Cerebral cavernous malformation,8B22.41
+Progressive supranuclear palsy,8A00.10
+Proliferative lupus nephritis,4A40
+Melioidosis,1C42
+Non-proliferative diabetic retinopathy,9B71.00
+Myocardial ischemia,BA6Z
+Pituitary adenoma,2F37.0
+Vascular dementia,6D81
+Peripheral arterial occlusive disorder,BD4Z
+Pseudoxanthoma elasticum,EC40
+Osteoarthritis pain,MG30.31
+Trichotillomania,6B25.0
+Sanfilippo syndrome,5C56.3Y
+Astrocytoma,2A00.0Y
+Insulin-dependent diabetes,5A10
+Allergic contact dermatitis,EK00
+Chronic post cancer treatment pain,8E43
+Epstein barr virus infection,1C80
+Medulloblastoma,2A00.10
+Hypersomnia,7A21
+Exacerbation of acute asthma,CA23.30
+Aging skin,EE40
+Hemorrhagic fever,1D61
+Acute biphenotypic leukaemia,2B33.4
+Metabolic bone disease,FB8Y
+Xerostomia,DA02.1
+Facial wrinkles,EJ9Y
+Chronic suppurative otitis media,AA91
+Intradialytic hypotension,BA20-BA21
+Subacute cutaneous lupus erythematosus,EB50
+Malignant perivascular epithelioid cell tumour,2B5Y
+Yersinia infection,1B93
+Spinal cerebellar ataxia type 3,8A03
+Oculopharyngeal muscular dystrophy,9C82.1
+Lung squamous cell carcinoma,2C25.2
+Rhabdomyosarcoma,2B55
+Peanut hypersensitivity,4A83
+Syndrome X,5C53.4
+Nontraumatic intracerebral hemorrhage,8B00.4
+Skin fibrosis,EM0Z
+Scar conditions,QB83
+Frailty,MG2A
+Cryptococcal meningitis infection,1D01.10
+Stem cell engraftment,QB63.8
+Interstitial lung disease,CB0Z
+Leptomeningeal sarcoma,2A01.0
+Labyrinthitis,AB30.1
+Social phobia,6B04
+Fibrolamellar liver cancer,2C12.02
+Hemorrhagic shock,MG40.1
+Lewy body dementia,6D82
+Leigh syndrome,5C53.24
+Pontocerebellar hypoplasia type 6,LD20.01
+Bulimia nervosa,6B81
+Retinopathy,9B71
+Cutaneous wart,1E80
+Metastatic melanoma,2E2Z
+Thymic cancer,2C27
+Hematopoietic stem cell transplantation,QB63
+Adjuvant ovarian cancer,2C73
+Atherosclerosis,BD40
+Vaginal infection,GA02.0
+Osteonecrosis,FB81
+Hepatic metastasis,2D80
+Trigeminal neuralgia,8B82.0
+Lumbosacral radiculopathy,8B93.Y
+Malignant uterine tumour,2C76.Z
+T-cell acute lymphocytic leukaemia,2B33.4
+Diabetic macular degeneration,9B78
+Congenital ichthyosiform erythroderma,EC20.02
+Choroidal dystrophy,9B61
+Complex epidermal hamartoma,LC02
+Mitochondrial respiratory chain disease,5C53.2
+Raynaud disease,BD42.0
+Hyperbilirubinemia,5C58
+Left ventricular dysfunction,BD11
+Occlusive disease,BD4Z
+Schizoaffective disorder,6A21
+Facial pain,MB6Y
+Enterocolitis,1A40.Z
+Cornea epithelial defect,9A78
+Metastatic renal cancer,2D50
+Refractory sickle cell ulcers,3A51
+Nerve injury,ND56.4
+Hepatovirus infection,1E51
+Motion sickness,NF08.3
+Pleomorphic sarcoma,2B54
+Basal cell nevus syndrome,2C32
+Chondrosarcoma,2B50
+Prolymphocytic leukaemia,2A82.1
+Haematopoietic/lymphoid cancer,2B33.5
+Exudative age-related macular degeneration,9B78.3Z
+Clear cell sarcoma,2A60-2C35
+Skin metastasis,2D50
+Rhinovirus infection,CA07
+Dermal neurofibromatoses,LD2D
+Lactose intolerance,5C61.6
+Metastatic sarcoma,2D50-2E2Z
+Hookworm infection,1F68
+Norovirus infection,1A23
+Allergic skin disorder,4A82
+Oral herpes,1F00.02
+Occlusive coronary artery disease,BA80
+H5N1 influenza infection,1E30
+Parvovirus infection,1D93
+Palmar hyperhidrosis,EE00.00
+Propagation of disease by mosquito,1C80-1D48
+Diabetic angiopathy,BD53.Y
+Immune dysregulation,4A01.2
+Complete androgen insensitivity syndrome,LD2A.4
+Metastatic non-hodgkin's lymphoma,2B33.5
+Bone injury,ND56.Y
+Streptococcal B infection,1G40
+Hereditary acantholytic dermatoses,EC20.2
+Advanced stage follicular lymphoma,2A80
+Rift valley fever,1D44
+Ductal carcinoma,2E65.2
+Structural developmental anomalies of liver,LB20.0
+Cerebral infarction,8B11.5Z
+Malignant neoplasm,2A00-2F9Z
+Squamous cell anal carcinoma,2C00.3
+Suicidal ideation,MB26.A
+Dwarfism,5B11
+Implantation failure,QB50
+Kidney failure,GB6Z
+Paronychia,1F23.13
+Euthyroid goiter,5A01.1
+Plasmodium falciparum malaria,1F40
+Phospholipid syndrome,4A45
+Myocardial reperfusion injury,NB31
+Chronic alcoholism,6C40.2Z
+Proteus syndrome,LD2C
+Lymphangioleiomyomatosis,CB07
+Herpes simplex labialis,1F00.01
+Meningioma metastases,2D51
+Polycystic kidney disease,GB8Y
+Urogenital cancer,2C95-2C9Z
+Metastatic cancer,2D50-2E2Z
+Aortic aneurysm,BD50
+Tuberous sclerosis,LD2D.2
+Glutamate excitotoxity,5C73
+Pachyonychia,EE10.3
+Ectodermal dysplasia,LD27.0
+Pandemic influenza infection,1E30
+Liver failure,DB99.7
+Delayed gastric emptying,DA41.00
+Keratoconjunctivitis sicca,9A79
+Claudication,FA11
+Nephropathy,GC2Z
+Adenocarcinoma,2D40
+Influenza A virus H9N2 infection,1E30
+Tularemia,1B94
+Androgen deficiency,5A81.1
+Myopia,9D00.0
+Vasodilatation of extremities,EG00
+Advanced sarcoma,2A60-2C35
+Stomach disease,DA43-DA4Y
+Vascular systems peripheral arterial disorder,BD5Z
+Chronic functional vomiting,DD90.4
+Adult respiratory distress syndrome,CB00
+Inflammatory breast cancer,2C62
+Knee injuries,NC9Z
+Fatty liver disease,DB92.Z
+Graves ophthalmopathy,9C82.3
+Neonatal hyperbilirubinemia,KA87
+Inner ear disease,AB30-AB37
+Memory loss,MB21.1Z
+Cheyne-stokes respiration,MD11.Y
+Oral candidiasis,1F23.0
+Microvascular angina,BA86
+Disuse muscle atrophy,8B61
+Corneal disease,9A78.Z
+"Harmful effects of drugs, medicaments or biological substances",NE60
+Ocular infection,1F00.1
+Giant axonal neuropathy,8C2Y
+CLN2 Batten disease,5C56
+Achromatopsia,9B70
+GM1 gangliosidosis,5C56.00
+Mucopolysaccharidosis I,5C56.30
+Peritoneal mesothelioma,2C51.2
+Refractory hematologic malignancy,2A85.5
+Limb girdle muscular dystrophy,8C70.4
+Leukocyte adhesion deficiency type 1,4A00.0Y
+Respiratory papillomatosis,2F00.1
+Hypoplastic left heart syndrome,LA89.3
+Mucopolysaccharidosis type IIIA,5C56.3Y
+Homocystinuria,5C50.B
+Mucopolysaccharidosis type IIIB,5C56.3Y
+Hypophosphatemic rickets,5C63.22
+Idiopathic CD4+ lymphocytopenia,4A00.2
+Lumbo-sacral radiculopathy,8B93.Y
+Leber's congenital amaurosis,9B70
+Seasonal influenza,1E30
+Canavan disease,5C50.E1
+Paraganglioma,2E92.2
+Peritoneal carcinomatosis,2D91
+X-linked chronic granulomatous disease,4A00
+Acute leukaemia,2A60
+T lymphoblastic leukaemia,2B33.4
+Crigler-Najjar syndrome,5C58.00
+CLN1 disease,5C56.1
+Krabbe disease,8A44.4
+Alzheimer's dementia,6D80
+Pseudomonas aeruginosa infections,GC08
+Congenital structural myopathy,8C72.0
+X-linked retinoschisis,9B73.11
+GM2 gangliosidosis,5C56.00
+Angiogenesis disorder,BE2Z
+Large cell lymphoma,2A80.Z
+Deafness,AB52
+Intervertebral disc displacement,FB1Y
+Mediastinal large B-cell lymphoma,2A60.32
+Myxoid round cell liposarcoma,2B59
+CLN6 disease,5C56.1
+Recurrent malignant glioma,2A00.0
+Postoperative ileus,DA91-DB30
+Infantile colics,DD93.1
+Peripheral ischemia,BD30-BD40
+Anaplastic astrocytoma,2A00.0
+Myelodysplastic malignancy,2A44
+B-cell prolymphocytic leukaemia,2A82.1
+Globoid cell leukodystrophy,8A44.4
+Semliki forest virus infection,1D9Y
+Cockayne syndrome,LD2B
+Malignant primary brain tumour,2A00.0
+Immunoproliferative disorder,2B32
+Factor VII deficiency,3B14
+Locally advanced rectal cancer,2B92
+Ataxic disorder,8A03
+Visual disturbance,9D90
+Chronic fatigue syndrome,8E49
+Angioedema,4A00.15
+Burns,N.A.
+Neurofibromatosis type 2,LD2D.11
+B-lineage leukaemia,2A82.1
+B-lineage lymphoma,2A86
+T-cell acute lymphoblastic leukaemia,2A90.5
+Head injury,NA00-NA0Z
+Choriocarcinoma,2C75.0
+Rectosigmoid junction cancer,2B91.Z
+X-linked myotubular myopathy,8C72
+Myopic macular degeneration,9B75.Y
+Blindness,9D90
+B-cell acute lymphoblastic leukaemia,2B33.3
+Nipah virus infection,1D63
+Zika virus infection,1D48
+Alloimmune thrombocytopenia,3B64.13
+Amyloid transthyretin cardiomyopathy,5D00.20
+Filarial disease,1F66
+Tay-sachs disease,5C56.00
+Lassa fever,1D61.2
+Klebsiella pneumonie,CA40.03
+Transthyretin amyloidosis,5D00
+Agitation,6A70.3
+Acinetobacter baumannii infection,CA40.0Y
+Multidrug resistant infection,MG51
+Coccidioidomycosis,1F25
+Henipavirus Encephalitis,1D63
+Peritoneal metastasis,2D91
+Ascites,ME04
+Spinocerebellar ataxia type 3,8A03.16
+Glycogen storage disease type IA,5C51.3
+Invasive prostate cancer,2C82
+Herpes simplex infection,1F00
+Limb girdle muscular dystrophy 2B,8C70.41
+Chronic tympanic membrane perforation,AB13
+Falciparum malaria,1F40-1F45
+Retinal vein occlusion,9B74
+X-linked Adrenoleukodystrophy,5C57
+Epithelioid mesothelioma,2F10
+Aging,MG2A
+Parainfluenza virus infection,1D9Y
+Metapneumovirus infection,CA40.13
+Infantile malignant osteopetrosis,LD24.10
+HER2-positive metastatic breast cancer,2C60-2C65
+Acute graft versus host disease,4B24.0
+Paratyphoid (A) enteric fever,1A08
+Salmonella typhoid,1A09
+Enterobacteriaceae infection,MG50.C
+Alcohol use disorder,6C40.2
+Autosomal dominant polycystic kidney disease,GB81
+Non-typhoidal salmonella,1A09
+Encephalitis virus infection,1C83-1C84
+Metastatic epithelial tumour,2D60
+Typhoid,1A07
+COPD,1D6Y
+Myeloma,2A83
+Diabetic Macular Oedema,9B71.02
+Gonorrhea,1A7Z
+Progressive multifocal leukoencephalopathy,8A45.02
+Gram-negative bacterial infection,1B74-1G40
+Refractory multiple myeloma,2A83
+Opioid use disorder,6C43.2Z
+Ependymoma,2A00.0Y
+Atypical teratoid/rhabdoid tumour,2A00.1Y
+Pineoblastoma,2A00.20
+Choroid plexus carcinoma,2A02.12
+Germ cell tumour,2C80.2
+Refractory metastatic multiple myeloma,2A83.1
+Peripheral nervous system tumour,2B5E
+Neurologic conditions associated with aminoacylase 1 deficiency,5C50.E1
+Spinocerebellar ataxia,8A03.16
+Inflammatory pain,MG30.42
+"Hand, foot and mouth disease",1F05.0
+Chronic back pain,ME86
+Tauopathy,6D85.Y
+Intoxication,6C40-6C4B
+Ocular cancer,2D00-2D07
+Coronary ischemia,BA50-BA51
+Toxic shock syndrome,1B52
+Neurogenic detrusor overactivity,GC01
+Spinal disease,FA72
+Airway inflammation,CA05
+Autoimmune hepatitis,DB96.0
+Tendon injuries,NC96.0
+Isosporiasis,1A33
+XY disorder of sex development due to androgen resistance,LD2A.4
+Neuroinflammation,1D0Y
+Anhedonia,MB24.2
+Respiratory syndrome coronavirus infection,1D92
+Spastic paralysis,MB5Y
+Malignant adrenal gland cancer,2D11
+Skin photoaging,EJ20
+Apnea,MD11.0
+Gastroesophageal junction adenocarcinoma,2B71
+Cardiac arrest,MC82
+Aerodigestive tract cancer,2C29.Z
+Pheumatoid arthritis,FA2Z
+Various major chronic disease,N.A.
+Non-syndromic ichthyosis,EC20.0Y
+Autosomal recessive congenital ichthyosis,EC20.02
+Allodynia,MB40.1
+Burkitt cell leukaemia,2A85.6
+Syndromic genetic deafness,LD2H
+Influenza A virus H7N1 infection,1E30
+Hyperlipemia,5C80
+Marburg virus infection,1D60.1
+Mesothelin Positive tumour,2C51-2F10
+West nile virus infection,1D46
+Nodular prurigo,EC91.0
+Phlebothrombosis,GB90.3
+Pleural mesothelioma,2C26.0
+Chronic blistering skin disorder,ME63.3
+Amenorrhea,GA20.0
+Hypoxia,MD11.1
+Ganglioneuroblastoma,2A00.11
+Neurogenic bladder dysfunction,GC01.4
+Aortic valve stenosis,BB70
+Cerebral oedema in diabetic ketoacidosis,8D60.1
+Ricin poisoning,NE61
+Malignant lymphatic,2A82
+Thrombotic stroke,8B20
+Neurotoxicity,NE61
+Functional bowel disorder,DD91
+B-cell small lymphocytic lymphoma,2A82.0
+Lung disease,CA60-CA8Z
+Oropharyngeal cancer,2B6A
+Acute myeloid lymphoma,2A80
+Botulism,1A11
+Cystinosis,5C60.1
+Cirrhosis,DB93
+Nasal polyp,CA0J
+Myelopathy,8B42
+Myocardial hypertrophy,BC45
+Albinism,EC23.2
+Ephelides,ED61.0
+Senile lentigines,ED61.0
+Hepatitis,DB97.Z
+Allergic inflammation,4A80-4A85
+Graft rejection,NE84
+Meningioma tumour,2A01
+Carotid artery disease,8B10
+Corneal neovascularization,9A78
+Blood vessel proliferative disorder,BE2Z
+Cell proliferative disorder,FB86
+Reflux disease,DA22
+Copper metabolism disorder,5C64.0
+Aberrant vascularization,BE2Z
+Cas mediated disorder,N.A.
+Malignant thymoma,2C27.2
+Muscular wasting,8C7Y
+Gastric ulcer,DA60
+Corticobasal degeneration,8A00.1Y
+Knee pain,ME82
+Histamine H3-associated disorder,NE61
+Irritant contact dermatitis,EK02
+Photocontact dermatitis,EK20
+Hair loss,ED70
+Bone cancer,2B5Z
+Trematode infection,1F8Y
+Depressive fatigue,MG22
+Laxative,FA34.1
+Cervical dilation,JB02.0
+Irregularities,N.A.
+Pollakiuria,MF50.1
+Male sexual disorder,HA02.0
+Disseminated intravascular coagulation,3B20
+Platelet aggregation disorder,3B62
+Estrogen deficiency,FB83.0Y
+Anal intraepithelial neoplasia,2E92.5
+Hypertonia,KB08.1
+Chronic renal failure,GB61.Z
+Colon polyp,DB35
+Kidney/heart transplant rejection,NE84
+Lesion,8A00-8C12
+Corneal ulcer,9A76
+Pulmonary emphysema,CA21.Z
+Fracture,ND56
+Occlusive arterial disease,BD4Z
+Salivary gland dysfunction,5B0Z
+Lipodystrophy,EF01
+Anaplastic mixed oligoastrocytoma,2A00.0Y
+Typhoid fever,1A07
+Salmonella infection,1A08
+Cryptosporidium infection,1A32
+Nervous system cancer,2A00
+Paralysis,8B60
+Episode,N.A.
+Nonvalvular atrial fibrillation,BC81.3Y
+Incontinence,MF50.2
+Chronic neuropathic pain,MG30.5
+Chemotherapy or radiotherapy-induced mucositis,DA42-DA60
+Heavy metal poisoning,NE60
+Esophagus sensitivity,DA2Y-DA2Z
+Peripheral nerve damage,ND56.4
+Weight gain,MG43.6
+Hughes syndrome,4A45.Z
+Miscarriage,JA00.0
+Atrial flutter,BC81.2Z
+Metastatic lung cancer,2D70
+Intestine cancer,2C0Z
+Pten-deficient tumour,2C50-2F93
+Cervical dystonia,8A02.0Y
+Retina disorder,9B70-9B7Z
+Lower urinary tract symptom,GB71
+Corneal deformity,9A78.5
+Keratoconus,9A78.50
+Crigler-najjar syndrome type 1,5C58.00
+Pneumonia due to Klebsiella pneumoniae,CA40.03
+Intestinal toxicities from therapy,DA94.1
+Stress urinary incontinence,MF50.20
+Arterial calcification,BD52.Y
+Inflammation associated with osteoarthritis,FA00-FA05
+Retinoblastoma,2D02.2
+Legionella infection,1C19
+Absence seizure,8A68.2
+Shock,MG40
+Cholesterol metabolism disorder,5C8Z
+Parathyroid disease,5A50-5A5Z
+Coxiella infection,1C33
+Aicardi-Goutieres syndrome,5C55.2
+Muscle hypertonia,MB47.8
+Hyperglycemia,MA18.0
+Pharyngitis,CA02.Z
+Sarcopenia,FB32.Y
+Central nervous system injury,KA40
+Endocrine disease,5B3Z
+Muscle wasting disease,8E4A.3
+Corneal abrasion,NA06.4
+Klebsiella infection,1C4Y
+Ataxia,MB45.0
+Hearing disorder,AB50-AB57
+Viral encephalitis,1C80
+Herpetic keratitis,1F00.10
+Entamoeba histolytica infection,1A36.Z
+Polyomavirus infection,1C80
+Hypernatremia,5C71
+Nervous system inflammation,1D0Y
+Lung inflammation,CA40.Z
+Bone resorption,FC0Z
+Coxsackie virus infection,1D91
+Upper respiratory infection,CA07
+Genitourinary tract cancer,2C8Z
+Fetal growth restriction,KA20.1Z
+Contracture,FA30-FA34
+Hyperaldosteronism,5A72
+Myocardial fibrosis,BC43.20
+Leukopenia,4B00.0Z
+Mitochondrial disease,5C53.Y
+Contusion,ND56.0
+Kidney injury,NB92.0
+Carbacephem,1A00-1C4Z
+Advanced/metastatic breast cancer,2C60
+Paramyxovirus infection,1C8E.Y
+Maple-syrup-urine disease,5C50.D0
+Insulinoma,2C10.1
+Nematode infection,1F60-1F69
+Hypersalivation,DA04.6
+Cerebral amyloid angiopathy,5D00.0
+Sebaceous gland disease,EM0Z
+Proctitis,DB33.Z
+Maroteaux-lamy syndrome,5C56.33
+Sinusitis,CA0A.Z
+Retrovirus infection,1D9Y
+Adrenal adenoma,2F37.Y
+Conjunctival fibrosis,9A61.3
+Stress,6B40-6B45
+Recurrent herpes labialis,1F00.01
+Junin virus infection,1D6Y
+Optic neuritis,9C40.1
+HIV-associated dementia,6D85.3
+Pyloric stenosis,DA40.0
+T-cell mediated immune dysfunction,4A01.1Y
+Asbestosis,CA60.2
+Leukodystrophy,8A44
